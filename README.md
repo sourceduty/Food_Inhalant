@@ -1,4 +1,4 @@
-![Food Inhalant Can](https://github.com/sourceduty/Food_Inhalant/assets/123030236/c8f7ea58-d308-4c71-be68-5db73b54cb17)
+![Food Inhalant Can](https://github.com/sourceduty/Food_Inhalant/assets/123030236/ec4dec2d-c6c8-45a0-a001-56f29522734e)
 
 Developing an aerosolized food inhalant spray requires a meticulous approach to ensure safety, nutritional value, and sensory appeal. At the core of this innovative concept is the creation of a chemical composition that is non-toxic and biocompatible, ensuring that it is safe for inhalation by both humans and animals. The selection of ingredients must prioritize substances that do not irritate or harm the respiratory tract.
 

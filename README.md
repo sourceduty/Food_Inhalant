@@ -44,5 +44,12 @@ Record-keeping would be an integral part of the food safety plan, documenting al
 
 Overall, the food safety plan for an aerosolized food inhalant spray would be comprehensive, addressing the unique challenges posed by the product and ensuring that it is safe for consumption. Through diligent monitoring, rigorous controls, and thorough documentation, the plan would aim to protect consumers and maintain the highest standards of food safety.
 
+#
+### Related Links
+
+[Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+<br>
+[Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

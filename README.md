@@ -16,6 +16,7 @@ Ensuring the stability and shelf-life of the aerosolized food spray is another s
 
 In summary, the development of an aerosolized food inhalant spray involves a complex interplay of chemical, nutritional, and sensory considerations. The formulation must carefully balance the safety and biocompatibility of the ingredients, the nutritional value of the encapsulated compounds, the efficiency of the aerosol delivery mechanism, and the overall sensory experience. Extensive theoretical and practical research would be required to translate this concept into a safe and effective product.
 
+#
 ### Cost Estimate
 
 Estimating the cost of developing an aerosolized food inhalant spray involves several key components, from research and development (R&D) to the cost of materials, production, and distribution. The initial phase, R&D, would likely be the most significant investment, requiring a multidisciplinary team of chemists, food scientists, aerosol technology experts, and safety regulators. This phase would encompass the design of the molecular structure, computational simulations, prototype development, and extensive safety and efficacy testing. The complexity and novelty of this product could lead to R&D costs ranging from several hundred thousand to millions of dollars, depending on the length of the development cycle and the number of iterations required to achieve a safe and effective formulation.
@@ -28,6 +29,7 @@ Distribution costs would involve the packaging, storage, and shipping of the aer
 
 Overall, the cost of developing and bringing an aerosolized food inhalant spray to market would be substantial, driven by high R&D expenses, the cost of premium ingredients and materials, specialized production processes, and potentially complex distribution logistics. While economies of scale could reduce some of these costs in the long term, the initial investment and unit cost would likely be high, positioning the product as a premium offering in the market.
 
+#
 ### Food Safety
 
 ![Food Inhalant](https://github.com/sourceduty/Food_Inhalant/assets/123030236/e367beb6-2322-404c-bb48-7065c6e67135)

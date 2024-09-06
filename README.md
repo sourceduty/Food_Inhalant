@@ -1,5 +1,9 @@
 ![Food Inhalant Can](https://github.com/sourceduty/Food_Inhalant/assets/123030236/ec4dec2d-c6c8-45a0-a001-56f29522734e)
 
+> Aerosolized food inhalant spray for humans and animals.
+
+#
+
 Developing an aerosolized food inhalant spray requires a meticulous approach to ensure safety, nutritional value, and sensory appeal. At the core of this innovative concept is the creation of a chemical composition that is non-toxic and biocompatible, ensuring that it is safe for inhalation by both humans and animals. The selection of ingredients must prioritize substances that do not irritate or harm the respiratory tract.
 
 The nutritional content is a critical aspect of the inhalant spray. The challenge lies in encapsulating essential nutrients, vitamins, and minerals in a form that the lungs can effectively absorb. This could involve the use of liposomes or biodegradable polymer particles to encapsulate the nutrients. For example, liposomes could be designed with a phospholipid bilayer, similar to natural cell membranes, encapsulating water-soluble vitamins like Vitamin C (ascorbic acid, C6H8O6) or Vitamin B12 (cobalamin, C63H88CoN14O14P).
@@ -50,6 +54,14 @@ Overall, the food safety plan for an aerosolized food inhalant spray would be co
 [Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
 <br>
 [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
+<br>
+[Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
+<br>
+[Food Design](https://github.com/sourceduty/Food_Design)
+<br>
+[Corn Cob Rotisserie](https://github.com/sourceduty/Corn_Cob_Rotisserie)
+<br>
+[Food Balancer](https://github.com/sourceduty/Food_Balancer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
